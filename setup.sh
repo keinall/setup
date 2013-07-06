@@ -5,6 +5,7 @@
 # Install nvm: node-version manager
 # https://github.com/creationix/nvm
 sudo apt-get install -y git-core
+# -- TODO: compensate if 'curl' is unavailable (a prob. on casper)
 curl https://raw.github.com/creationix/nvm/master/install.sh | sh
 
 # Load nvm and install latest production node

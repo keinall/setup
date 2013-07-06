@@ -1,5 +1,14 @@
 setup.git
 =========
+This fork is just a simple copy, for now. 
+
+It may be modified for the improvement of the super-nu w.o.,
+if there is enough time to play with it more.
+
+Until then, behold the traditional
+
+	README / Instructions:
+
 Clone and run this on a new EC2 instance running Ubuntu 12.04.2 LTS to
 configure both the machine and your individual development environment as
 follows:
